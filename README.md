@@ -27,7 +27,7 @@ machine and run it.
 ### Running the Project
 
 1. Set the OpenAI API key as an environment variable using the `OPENAI_API_KEY` variable.
-2. Run the project ``npm start``
+2. Run the project ``node index.js``
 
 
 ## Built With
